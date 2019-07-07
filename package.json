@@ -1,8 +1,7 @@
 {
-  "name": "demo",
+  "name": "vue-more-pages",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "oxc <524112857@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
