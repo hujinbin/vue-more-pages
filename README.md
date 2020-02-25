@@ -1,17 +1,30 @@
+#vue-more-pages
+基于vue-cli的多页面应用
 
-## Build Setup
+
+默认进入
+src->page->index->index.html
+
+测试页面地址：
+src->page->test->test.html
+
+运行地址:localhost:8080/test.html
+
 
 ``` bash
-# install dependencies
+项目地址：（git clone）
+
+git clone https://github.com/hujinbin/Vue-sell.git
+ 
+ 
+# 通过npm安装本地服务第三方依赖模块(需要已安装Node.js)
 npm install
 
-# serve with hot reload at localhost:8080
+# 本地运行于 localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包文件
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
